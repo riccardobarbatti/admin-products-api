@@ -1,0 +1,3 @@
+# Project exclude paths
+/nest-admin/dist/
+/nest-admin/node_modules/
