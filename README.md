@@ -1,2 +1,2 @@
 # api-products
-Nestjs api users base in Typescript
+Nestjs api users base in Typescript e Docker
