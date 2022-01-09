@@ -1,1 +1,2 @@
-*.VBA linguist-detectable=false
+# to change language of repo from VBA wrong language to TypeScript
+*.VBA linguist-language=TypeScript
