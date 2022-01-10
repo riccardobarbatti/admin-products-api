@@ -1,2 +1,1 @@
-# to change language of repo from VBA to Typescript
-*.VBA linguist-language=TypeScript
+static/* linguist-vendored
