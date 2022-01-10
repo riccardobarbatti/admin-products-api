@@ -1,2 +1,3 @@
 static/* linguist-vendored
-*.rb linguist-language=TypeScript
+docs/* linguist-documentation
+*.vba linguist-language=TypeScript
